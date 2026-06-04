@@ -3,10 +3,10 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.6.1-orange)](https://scikit-learn.org)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-green)](https://docs.python.org/3/library/tkinter.html)
-[![AI](https://img.shields.io/badge/AI-Powered-red)](https://github.com/Kaushikj-7/ai_kavach)
+[![AI](https://img.shields.io/badge/AI-Powered-red)](https://github.com/Amoghdatta/AI-Kavach)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-🔗 **GitHub Repository**: [https://github.com/Kaushikj-7/ai_kavach.git](https://github.com/Kaushikj-7/ai_kavach.git)
+🔗 **GitHub Repository**: [https://github.com/Amoghdatta/AI-Kavach.git](https://github.com/Amoghdatta/AI-Kavach.git)
 
 > **AI-powered railway collision prevention system with real-time monitoring, concurrent AI recommendations, and automatic emergency response**
 
@@ -145,8 +145,8 @@ pip3 install scikit-learn==1.6.1
 
 ```bash
 # Clone the repository
-git clone https://github.com/Kaushikj-7/ai_kavach.git
-cd ai_kavach
+git clone https://github.com/Amoghdatta/AI-Kavach.git
+cd AI-Kavach
 
 # Optional: Install scikit-learn for advanced features
 pip install scikit-learn==1.6.1
@@ -157,7 +157,7 @@ python ai_kavach.py
 
 ### Option 2: Download ZIP
 
-1. Visit: [https://github.com/Kaushikj-7/ai_kavach.git](https://github.com/Kaushikj-7/ai_kavach.git)
+1. Visit: [https://github.com/Amoghdatta/AI-Kavach.git](https://github.com/Amoghdatta/AI-Kavach.git)
 2. Click "Code" → "Download ZIP"
 3. Extract to your desired folder
 4. Open terminal/command prompt in the folder
@@ -305,6 +305,10 @@ sudo yum install tkinter
 
 This project is licensed under the MIT License.
 
+## 👨‍💻 Author & Maker
+
+Developed and created by **[Amoghdatta](https://github.com/Amoghdatta)**.
+
 ## 🙋‍♂️ Support
 
 ### Getting Help
@@ -370,7 +374,7 @@ python ai_kavach.py
 
 ### **GitHub Repository:**
 
-🔗 [https://github.com/Kaushikj-7/ai_kavach.git](https://github.com/Kaushikj-7/ai_kavach.git)
+🔗 [https://github.com/Amoghdatta/AI-Kavach.git](https://github.com/Amoghdatta/AI-Kavach.git)
 
 ---
 
