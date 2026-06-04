@@ -1,0 +1,27 @@
+# AI KAVACH - Smart Train Collision Prevention System
+# Requirements file for Python dependencies
+
+# Core Python modules (built-in, no installation needed):
+# - tkinter (GUI framework)
+# - time (time utilities)
+# - random (random number generation)  
+# - math (mathematical functions)
+# - threading (multi-threading support)
+# - json (JSON data handling)
+# - os (operating system interface)
+# - sys (system-specific parameters)
+
+# Optional dependencies (not required but can enhance functionality):
+scikit-learn==1.6.1   # For advanced ML models (compatible version)
+# numpy>=1.21.0        # For numerical computations (optional)
+# matplotlib>=3.5.0    # For advanced plotting (optional)
+
+# No external dependencies required!
+# This system uses standalone AI models that work without external libraries.
+# All required modules are part of Python's standard library.
+
+# Minimum Python version: 3.7
+# Recommended Python version: 3.8+
+
+# To run the system:
+# python ai_kavach.py
